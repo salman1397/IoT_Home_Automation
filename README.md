@@ -14,13 +14,20 @@ The system supports automation and remote access, ensuring a seamless and effici
 ---
 
 ## 🚀 Features
-✅ **Control appliances via ESP Rainmaker App, Alexa or G Home(WiFi/MQTT)**  
+✅ **Control appliances via ESP Rainmaker App, Alexa or G Home(WiFi/MQTT)**
+
 ✅ **IR Remote & Touch Switch for local control**
+
 ✅ **Google Home & Alexa Integration for voice control and automation** 
+
 ✅ **Real-time appliance monitoring**
+
 ✅ **Temperature and Humidity Monitoring** 
+
 ✅ **Automation with PIR sensor**  
+
 ✅ **Works with or without WiFi**  
+
 ✅ **Custom PCB design for compact hardware**  
 
 ---
@@ -28,12 +35,14 @@ The system supports automation and remote access, ensuring a seamless and effici
 ## 🛠️ Components Used
 | Component | Description |
 |-----------|------------|
-| ![ESP32](assets/esp32.png) | ESP32 WiFi Module |
-| ![IR Sensor](assets/ir_sensor.png) | IR Receiver for Remote Control |
-| ![Touch Switch](assets/touch_switch.png) | Capacitive Touch Switch |
-| ![Relay Module](assets/relay_module.png) | Relay Module for Switching Appliances |
-| ![PIR Sensor](assets/pir_sensor.png) | PIR Motion Sensor for Automation |
-| ![Power Supply](assets/power_supply.png) | Power Module for ESP32 |
+|![ESP32](https://raw.githubusercontent.com/salman1397/IoT_Home_Automation/main/images/esp32.png) | ESP32 WiFi Module |
+| ![IR](https://raw.githubusercontent.com/salman1397/IoT_Home_Automation/main/images/ir.jpg) | IR Receiver for Remote Control |
+| ![BC547](https://raw.githubusercontent.com/salman1397/IoT_Home_Automation/main/images/bc547.jpg)  | BC547 NPN Transistor |
+| ![dht11](https://raw.githubusercontent.com/salman1397/IoT_Home_Automation/main/images/dht11.jpg)  | DHT11 Temperature & Humidity Sensor |
+| ![IR](https://raw.githubusercontent.com/salman1397/IoT_Home_Automation/main/images/pc817.jpg) | PC817 Optocoupler |
+| ![IR](https://raw.githubusercontent.com/salman1397/IoT_Home_Automation/main/images/ps.jpg)  | Power Supply Module |
+|![IR](https://raw.githubusercontent.com/salman1397/IoT_Home_Automation/main/images/relay.jpg) | Relay For Switching Application |
+|![IR](https://raw.githubusercontent.com/salman1397/IoT_Home_Automation/main/images/pir.jpg) | PIR Motion Sensor for Automation |
 
 ---
 
@@ -82,6 +91,21 @@ Control and monitor your home appliances using the **ESP Rainmaker App** availab
 
 ---
 
+## 📫 Let's Connect!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/salman151397">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
+</a>
+<span style="display:inline-block; width: 250px;"></span>
+<a href="https://www.youtube.com/@SmartTechInsights-e9j">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40">
+</a>
+<span style="display:inline-block; width: 250px;"></span>
+<a href="mailto:salman151397@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40">
+</a>
+</p>
 
 
 
