@@ -52,7 +52,7 @@ Control and monitor your home appliances using the **ESP Rainmaker App** availab
 - Automation settings
 - Voice command integration with Google Home & Alexa
 
-![ESP Rainmaker](assets/esp_rainmaker_app.png)
+![ESP Rainmaker](https://raw.githubusercontent.com/salman1397/IoT_Home_Automation/main/images/screen1.jpg)
 
 ---
 
