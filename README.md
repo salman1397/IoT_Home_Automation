@@ -111,4 +111,4 @@ Control and monitor your home appliances using the **ESP Rainmaker App** availab
 
 
 
-[![GitHub Stars](https://img.shields.io/github/stars/salman1397/IoT_Home_Automation.svg?style=social)](https://github.com/salman1397/IoT_Home_Automation)
+[![GitHub Stars](https://img.shields.io/github/stars/salman1397/IoT_Home_Automation.svg?style=social)](https://github.com/salman1397/IoT_Home_Automation/HomeAutomation/HomeAutomation.ino)
