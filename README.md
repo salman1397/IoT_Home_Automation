@@ -59,7 +59,7 @@ Control and monitor your home appliances using the **ESP Rainmaker App** availab
 - Install the **ESP Rainmaker App** from Play Store/App Store, and Create an account
 - Press boot button of ESP32 for 10 Seconds for pairing mode
 - Then Press + icon on the app and connect the device with Bluetooth
-- After connect with bluetooth succesfully then required WiFi SSID and Password or Router
+- After connect with bluetooth succesfully then required WiFi SSID and Password of Router for WiFi Provisioning
 - Then automatically device added to the app
 
 ---
@@ -74,31 +74,17 @@ Control and monitor your home appliances using the **ESP Rainmaker App** availab
 
 ---
 
-## 📸 Demo & Images
+## 📸 Demo
 ![System Demo](assets/demo.gif)
+<a href="https://www.youtube.com/watch?v=RzM9oUeDlkI">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40">
+</a>
 
 ---
 
-## ⚙️ Future Enhancements
-- 📡 **Add Bluetooth Control**
-- 🌐 **Integration with Home Assistant**
-- 🎙️ **Custom Voice Commands**
-- 🔋 **Energy Monitoring Feature**
 
----
 
-## 🏗️ Project Contributors
-🔹 **[Your Name]** - Developer & Hardware Engineer  
-🔹 **[Your GitHub](https://github.com/yourgithub)** - Repository Maintainer  
 
----
 
-## 📜 License
-This project is **open-source** and released under the **MIT License**.
 
----
-
-## ⭐ Show Some Love!
-If you liked this project, don't forget to **🌟 Star** the repo and **fork** it for future improvements!
-
-[![GitHub Stars](https://img.shields.io/github/stars/yourgithub/home-automation.svg?style=social)](https://github.com/yourgithub/home-automation)
+[![GitHub Stars](https://img.shields.io/github/stars/salman1397/IoT_Home_Automation.svg?style=social)](https://github.com/salman1397/IoT_Home_Automation)
